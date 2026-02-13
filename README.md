@@ -83,13 +83,6 @@ No API keys or secrets are exposed in this repository.
 
 ---
 
-## Resume-Ready Description
-
-ProofAI – Governed RAG Platform (Personal Project)  
-Built an enterprise-grade governed RAG system with evidence-first AI, policy-aware retrieval, auditability, and EU-sovereign deployment using Gemini, FastAPI, and RAG orchestration patterns.
-
----
-
 ## Author
 
 Uday Rohith Reddy Yeruva  
